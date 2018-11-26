@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="LineageOS/android_device_xiaomi_sagit" path="device/xiaomi/sagit" remote="github" />
+  <project name="LineageOS/android_device_xiaomi_msm8998-common" path="device/xiaomi/msm8998-common" remote="github" />
+  <project name="LineageOS/android_kernel_xiaomi_msm8998" path="kernel/xiaomi/msm8998" remote="github" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi" path="vendor/xiaomi" />
+  <project name="ankp/android_kernel_motorola_msm8992" path="kernel/motorola/msm8992" remote="github" />
+  <project name="ankp/android_device_motorola_clark" path="device/motorola/clark" remote="github" />
+  <project name="ankp/proprietary_vendor_motorola_clark" path="vendor/motorola/clark" remote="github" />
+  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="refs/heads/lineage-15.1" />
+  <project name="ankp/android_system_qcom" path="system/qcom" remote="github" revision="refs/heads/lineage-16.0" />
+  <project name="LineageOS/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" />
+  <project path="prebuilts/lineage-sdk" name="LineageOS/android_prebuilts_lineage-sdk" clone-depth="1" />
+</manifest>
